@@ -1,0 +1,54 @@
+p {
+    border: 1px solid red;
+    color: green;
+    background-color: blueviolet;
+}
+
+h1 {
+    color: greenyellow
+}
+
+.titulo {
+    color: blue
+}
+
+.container {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    padding: 25px;
+    border: 5px solid black;
+    margin: 25px;
+
+}
+
+.containered {
+    background-color: blanchedalmond;
+    width: 150px;
+    height: 150px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-left: 38px;
+    padding-right: 85px;
+    border-top: 5px solid black;
+    border-bottom: 15px solid red;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin-left: 85px;
+    margin-right: 45px;
+}
+.link{
+    display:block
+}
+.linked{
+    display: inline;
+}
+.whatsapp{
+    position: relative;
+    right: -25px;
+}
+.cocacola{
+    position: sticky;
+    bottom: 25px;
+    right: 300px
+}
